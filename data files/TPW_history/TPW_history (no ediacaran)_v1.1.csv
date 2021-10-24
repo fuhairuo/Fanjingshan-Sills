@@ -1,0 +1,44 @@
+TPW_ID,Period,color_ID,Age_low,Age_upp,Age_mean,Age,Degrees,rate_degree_low,rate_degree_upp,rate_degree,uncertainty,rate_cm_low,rate_cm_upp,rate_cm_mean,error_up,error_down,uncertainty,Confidence level? (ABC),Reference
+MCR_u,,Precambrian,1110,1080,1095,1110,,,,,,5,21,14,7,9,7,A,
+MCR_l,,Precambrian,,,,1080,,,,,,5,21,14,7,9,7,A,
+FJS_u,Tonian,Precambrian,821.64,832.51,827.065,832.51,54.68,2.01,5.3,3.64,,22.3,58.84,40.37,18.47,18.07,,A,this study; Li 2004: Wang 2016
+FJS_l,,Precambrian,,,,821.62,,,,,,22.3,58.84,40.37,18.47,18.07,,,
+BST_u,Tonian,Precambrian,795,810,802.5,810,83,3.6,4.86,4.23,0.63,40,54,47,7,7,7,A,Maloof 2006; Swanson-Hysell 2015
+BST_l,,Precambrian,,,,796,,3.6,4.86,4.23,,40,54,47,7,7,,,
+BST_2_u,Tonian,Precambrian,795,810,802.5,810,83,,,5.41,,,,60,,,,A,Park et al. 2021
+BST_2_l,,Precambrian,,,,796,,,,5.41,,,,60,,,,,
+Edi_Cam_Ross_u,Edi+Cam,Precambrian,505,550,527.5,550,~60,0.72,2.52,1.44,,8,28,16,12,8,,B,Ross 2010
+Edi_Cam_Ross_l,,Precambrian,,,,505,,0.72,2.52,1.44,,8,28,16,12,8,,,
+Odo_Dev_a(u),Odo-Dev,Phanerozoic,408,450,429,450,50,,,1.19,,,,13.21,,,,C,van der voo 1994
+Odo_Dev_a(l),,Phanerozoic,,,,408,,,,,,,,13.21,,,,,
+Odo_Dev_b(u),Odo-Dev,Phanerozoic,410,430,420,430,,,,2,,,,22.2,,,,C,Torsvik 2012
+Odo_Dev_b(l),,Phanerozoic,,,,410,,,,,,,,22.2,,,,,
+Odo_Dev_c(u),Odo-Dev,Phanerozoic,372,408,390,408,25,,,0.69,,,,7.71,,,,C,van der voo 1994
+Odo_Dev_c(l),,Phanerozoic,,,,372,,,,,,,,7.71,,,,,
+Pangea_mig,,Phanerozoic,250,400,325,400,60,,,0.36036036,,,,4,,,,A,Le Pichon 2020
+Pangea_mig,,Phanerozoic,,,,250,,,,0.36036036,,,,4,,,,,
+Tri_S&T(u),Triassic,Phanerozoic,220,250,235,250,18,,,0.6,,,,6.66,,,,A,Steinberger 2012
+Tri_S&T(l),,Phanerozoic,,,,220,,,,,,,,6.66,,,,,
+Jur2_S&T(u),Jurassic,Phanerozoic,145,195,170,195,18,,,0.36,,,,4,,,,A,Steinberger 2012
+Jur2_S&T(l),,Phanerozoic,,,,145,,,,,,,,4,,,,,
+Jur_Yi(u),Jurassic,Phanerozoic,157,174,165.5,174,,,,1.5,,,,16.65,,,,,Yi 2019
+Jur_Yi(l),,Phanerozoic,,,,157,,,,,,,,16.65,,,,,
+Jur_Kent2015(u),Jurassic,Phanerozoic,145,160,152.5,160,~30,,,1.5,,,,16.65,,,,A,Kent 2015
+Jur_Kent2015(l),,Phanerozoic,,,,145,,,,,,,,16.65,,,,,
+Jur_Muttoni2019(u),Jurassic,Phanerozoic,146.4,156.1,151.25,156.1,~30,0.8,4.3,1.9,,8.88,47.73,21.09,26.64,12.21,,A,"Muttoni 2019, kent 2010"
+Jur_Muttoni2019(l),,Phanerozoic,,,,146.4,,0.8,4.3,1.9,,8.88,47.73,21.09,26.64,12.21,,,
+Jur_Fu_a1(u),Jurassic,Phanerozoic,140.1,160.2,150.15,160.2,~30,0.9,2.44,1.67,,9.99,27.08,18.54,8.54,8.55,8.55,A,Fu et al. 2018
+Jur_Fu_a1(l),,Phanerozoic,,,,140.1,,0.9,2.44,1.67,,9.99,27.08,18.54,8.54,8.55,,,
+Jur_Fu_a2(u),Jurassic,Phanerozoic,140.1,160.2,150.15,160.2,~30,1.23,2.91,2.07,,13.65,32.3,22.98,9.32,9.32,9.32,A,Fu et al. 2018
+Jur_Fu_a2(l),,Phanerozoic,,,,140.1,,1.23,2.91,2.07,,13.65,32.3,22.98,9.32,9.32,,,
+Jur_Fu_b2(u),Jurassic,Phanerozoic,145,170,157.5,170,25.3,0.86,1.56,1.21,,9.55,17.32,13.43,3.89,3.89,3.89,A,Fu et al. 2020
+Jur_Fu_b2(l),,Phanerozoic,,,,145,,,,,,9.55,17.32,13.43,3.89,3.89,3.89,,
+Jur_Fu_b1(u),Jurassic,Phanerozoic,145,160,152.5,160,,0.81,2.11,1.46,,8.99,23.42,16.21,7.22,7.22,7.22,,Fu et al. 2020
+Jur_Fu_b1(l),,Phanerozoic,,,,145,,,,,,8.99,23.42,16.21,7.22,7.22,,,
+Jur3_S&T(u),Jurassic,Phanerozoic,135,145,140,145,10,,,1,,,,11.1,,,,A,Torsvik 2012
+Jur3_S&T(l),,Phanerozoic,,,,135,,,,,,,,11.1,,,,,
+Cre_ST(u),Cretaceous,Phanerozoic,100,110,105,110,10,,,1,,,,11.1,,,,A,Torsvik 2012
+Cre_ST(l),,Phanerozoic,,,,100,,,,,,,,11.1,,,,,
+Italy,Cretaceous,Phanerozoic,78,86,82,86,24,,,3,,,,33.3,,,,B,Mitchell 2021
+Italy,,Phanerozoic,,,,78,,,,,,,,33.3,,,,,Mitchell 2022
+now,,Phanerozoic,0,0,0,0,0.9,,,,,,,10,,,,A,
